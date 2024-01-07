@@ -1,0 +1,11 @@
+commit b58a4abceeabf13f653863784d2afb08faa38538
+Author: Milena <Milena@gmail.com>
+Date:   Sun Jan 7 11:37:10 2024 +0100
+
+    ignorowanie
+
+commit 7c6ea654845b7b2528b4fc7af1deb23691b95bad
+Author: Milena <Milena@gmail.com>
+Date:   Sun Jan 7 11:31:11 2024 +0100
+
+    laptop
